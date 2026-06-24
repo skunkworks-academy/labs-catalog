@@ -1,0 +1,26 @@
+﻿[
+  {
+    "id": "AST-101",
+    "title": "Asterisk PBX Foundations Lab",
+    "track": "VoIP",
+    "level": "Beginner",
+    "durationMinutes": 90,
+    "status": "draft"
+  },
+  {
+    "id": "LNX-101",
+    "title": "Linux Command Line Fundamentals Lab",
+    "track": "Linux",
+    "level": "Beginner",
+    "durationMinutes": 60,
+    "status": "draft"
+  },
+  {
+    "id": "CLD-101",
+    "title": "Cloud Sandbox Orientation",
+    "track": "Cloud",
+    "level": "Beginner",
+    "durationMinutes": 60,
+    "status": "draft"
+  }
+]

@@ -1,2 +1,3 @@
-# labs-catalog
-Canonical catalogue, schemas and metadata for Skunkworks Academy Labs.
+﻿# Skunkworks Academy Labs Catalogue
+
+Canonical catalogue for on-demand labs, cloud sandboxes and instructor-led practical labs.

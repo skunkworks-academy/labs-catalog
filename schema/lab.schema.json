@@ -1,0 +1,5 @@
+﻿{
+  "title": "Skunkworks Academy Lab",
+  "type": "object",
+  "required": ["id", "title", "track", "level", "durationMinutes", "status"]
+}
