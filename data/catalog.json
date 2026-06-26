@@ -1,0 +1,145 @@
+[
+  {
+    "id": "LNX-101",
+    "title": "Linux Command Line Fundamentals",
+    "summary": "Navigate the filesystem, manage processes, permissions and packages from the shell.",
+    "jobRoles": ["linux-sysadmin", "support-technician", "devops-engineer"],
+    "complexity": "beginner",
+    "durationMinutes": 60,
+    "industries": ["cross-industry"],
+    "specializations": ["linux"],
+    "status": "published"
+  },
+  {
+    "id": "LNX-201",
+    "title": "Linux Service Hardening & systemd",
+    "summary": "Manage units, harden SSH, configure firewalls and audit a server baseline.",
+    "jobRoles": ["linux-sysadmin", "security-analyst"],
+    "complexity": "intermediate",
+    "durationMinutes": 180,
+    "industries": ["public-sector", "financial-services"],
+    "specializations": ["linux", "cybersecurity"],
+    "status": "published"
+  },
+  {
+    "id": "AST-101",
+    "title": "Asterisk PBX Foundations",
+    "summary": "Stand up an Asterisk PBX, create extensions and place your first internal calls.",
+    "jobRoles": ["voip-engineer", "support-technician"],
+    "complexity": "beginner",
+    "durationMinutes": 90,
+    "industries": ["telecommunications"],
+    "specializations": ["voip", "linux"],
+    "status": "published"
+  },
+  {
+    "id": "AST-301",
+    "title": "SIP Trunking & Call Routing at Scale",
+    "summary": "Design dial plans, configure SIP trunks and troubleshoot one-way audio and NAT.",
+    "jobRoles": ["voip-engineer", "network-engineer"],
+    "complexity": "advanced",
+    "durationMinutes": 1440,
+    "industries": ["telecommunications"],
+    "specializations": ["voip", "networking"],
+    "status": "published"
+  },
+  {
+    "id": "NET-101",
+    "title": "Networking Essentials: IP, Subnetting & Routing",
+    "summary": "Build a confident mental model of addressing, subnetting and routing decisions.",
+    "jobRoles": ["network-engineer", "support-technician", "cloud-engineer"],
+    "complexity": "beginner",
+    "durationMinutes": 120,
+    "industries": ["cross-industry"],
+    "specializations": ["networking"],
+    "status": "published"
+  },
+  {
+    "id": "NET-202",
+    "title": "VLANs, Trunking & Layer-2 Troubleshooting",
+    "summary": "Segment a switched network, configure trunks and diagnose spanning-tree issues.",
+    "jobRoles": ["network-engineer"],
+    "complexity": "intermediate",
+    "durationMinutes": 240,
+    "industries": ["manufacturing", "public-sector"],
+    "specializations": ["networking"],
+    "status": "published"
+  },
+  {
+    "id": "CLD-101",
+    "title": "Cloud Sandbox Orientation",
+    "summary": "Provision your first cloud resources, understand regions, IAM and cost basics.",
+    "jobRoles": ["cloud-engineer", "devops-engineer"],
+    "complexity": "beginner",
+    "durationMinutes": 60,
+    "industries": ["cross-industry"],
+    "specializations": ["cloud"],
+    "status": "published"
+  },
+  {
+    "id": "CLD-301",
+    "title": "Cloud Landing Zone Architecture",
+    "summary": "Design a secure multi-account landing zone with networking, identity and guardrails.",
+    "jobRoles": ["cloud-engineer", "devops-engineer"],
+    "complexity": "expert",
+    "durationMinutes": 2880,
+    "industries": ["financial-services"],
+    "specializations": ["cloud", "cybersecurity"],
+    "status": "draft"
+  },
+  {
+    "id": "DOP-201",
+    "title": "CI/CD Pipelines with Infrastructure as Code",
+    "summary": "Automate build, test and deploy with a pipeline and declarative infrastructure.",
+    "jobRoles": ["devops-engineer", "cloud-engineer"],
+    "complexity": "intermediate",
+    "durationMinutes": 300,
+    "industries": ["cross-industry"],
+    "specializations": ["devops", "cloud"],
+    "status": "published"
+  },
+  {
+    "id": "SEC-201",
+    "title": "Threat Detection & Incident Triage",
+    "summary": "Investigate alerts, build a triage workflow and document an incident timeline.",
+    "jobRoles": ["security-analyst"],
+    "complexity": "intermediate",
+    "durationMinutes": 360,
+    "industries": ["financial-services", "healthcare"],
+    "specializations": ["cybersecurity"],
+    "status": "published"
+  },
+  {
+    "id": "DPG-610A",
+    "title": "Administration on IBM DataPower Gateway 10",
+    "summary": "Administer DataPower domains, services and gateways for secure API integration.",
+    "jobRoles": ["integration-engineer", "security-analyst"],
+    "complexity": "advanced",
+    "durationMinutes": 2880,
+    "industries": ["financial-services", "public-sector"],
+    "specializations": ["api-integration", "cybersecurity"],
+    "status": "published"
+  },
+  {
+    "id": "INT-301",
+    "title": "API Gateway Patterns & Message Routing",
+    "summary": "Apply gateway, transformation and routing patterns for enterprise integration.",
+    "jobRoles": ["integration-engineer", "devops-engineer"],
+    "complexity": "advanced",
+    "durationMinutes": 480,
+    "industries": ["financial-services"],
+    "specializations": ["api-integration"],
+    "status": "draft"
+  },
+  {
+    "id": "DAT-101",
+    "title": "Data Pipelines & Observability Foundations",
+    "summary": "Ingest, transform and monitor a data pipeline with logging and basic metrics.",
+    "jobRoles": ["devops-engineer", "cloud-engineer"],
+    "complexity": "intermediate",
+    "durationMinutes": 240,
+    "industries": ["healthcare", "financial-services"],
+    "specializations": ["data", "cloud"],
+    "status": "draft"
+  }
+]
