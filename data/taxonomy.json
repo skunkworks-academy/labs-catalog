@@ -1,0 +1,43 @@
+{
+  "version": "2026.06.26",
+  "jobRoles": [
+    { "id": "network-engineer", "label": "Network Engineer", "summary": "Designs, configures and operates LAN/WAN, routing and switching infrastructure." },
+    { "id": "voip-engineer", "label": "VoIP Engineer", "summary": "Builds and supports voice platforms, SIP trunking and unified communications." },
+    { "id": "linux-sysadmin", "label": "Linux Systems Administrator", "summary": "Administers Linux servers, services, automation and hardening." },
+    { "id": "cloud-engineer", "label": "Cloud Engineer", "summary": "Provisions and operates cloud workloads, networking and managed services." },
+    { "id": "devops-engineer", "label": "DevOps Engineer", "summary": "Delivers CI/CD, infrastructure-as-code and platform automation." },
+    { "id": "security-analyst", "label": "Security Analyst", "summary": "Monitors, detects and responds to threats and hardens systems." },
+    { "id": "integration-engineer", "label": "Integration Engineer", "summary": "Implements API gateways, message routing and enterprise integration." },
+    { "id": "support-technician", "label": "Support Technician", "summary": "First and second-line support across desktop, network and voice." }
+  ],
+  "complexityLevels": [
+    { "id": "beginner", "label": "Beginner", "order": 1, "summary": "No prior experience assumed; foundational concepts and guided tasks." },
+    { "id": "intermediate", "label": "Intermediate", "order": 2, "summary": "Builds on fundamentals with realistic configuration and troubleshooting." },
+    { "id": "advanced", "label": "Advanced", "order": 3, "summary": "Complex, multi-component scenarios and design decisions." },
+    { "id": "expert", "label": "Expert", "order": 4, "summary": "Production-grade architecture, optimisation and edge-case resolution." }
+  ],
+  "durationBands": [
+    { "id": "short", "label": "Short", "maxMinutes": 120, "summary": "Under 2 hours — a focused single sitting." },
+    { "id": "standard", "label": "Standard", "maxMinutes": 480, "summary": "2–8 hours — a full practical module." },
+    { "id": "extended", "label": "Extended", "maxMinutes": 2880, "summary": "1–3 days — a deep scenario or mini-project." },
+    { "id": "pathway", "label": "Pathway", "maxMinutes": null, "summary": "Multi-week structured learning pathway." }
+  ],
+  "industries": [
+    { "id": "telecommunications", "label": "Telecommunications" },
+    { "id": "financial-services", "label": "Financial Services" },
+    { "id": "healthcare", "label": "Healthcare" },
+    { "id": "public-sector", "label": "Public Sector" },
+    { "id": "manufacturing", "label": "Manufacturing" },
+    { "id": "cross-industry", "label": "Cross-industry" }
+  ],
+  "specializations": [
+    { "id": "voip", "label": "VoIP & Unified Comms" },
+    { "id": "linux", "label": "Linux & Open Source" },
+    { "id": "networking", "label": "Networking" },
+    { "id": "cloud", "label": "Cloud" },
+    { "id": "devops", "label": "DevOps & Automation" },
+    { "id": "cybersecurity", "label": "Cybersecurity" },
+    { "id": "api-integration", "label": "API & Integration" },
+    { "id": "data", "label": "Data & Analytics" }
+  ]
+}
